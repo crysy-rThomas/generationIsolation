@@ -1,0 +1,8 @@
+Sitemap: https://generation-isolation.org/sitemap.xml
+
+User-agent: *
+Disallow: /pre-registration*
+Disallow: /send-pre-registration*
+Disallow: /fr/legal
+Disallow: /en/legal
+Disallow: /legal
